@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
     <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
-        <dependency display_value="Task table schema" source="com.glide.task">1e948bb52f121010f22a532a2799b6d0</dependency>
+        <dependency display_value="System Import Sets" source="com.glide.system_import_set">bf7443b52f121010f22a532a2799b68c</dependency>
         <min_version>1.0.0</min_version>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-08-07 09:32:33</sys_created_on>
-        <sys_id>260951682f2a5010f22a532a2799b616</sys_id>
+        <sys_id>26c6c2b92f621010f22a532a2799b6de</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_updated_by>admin</sys_updated_by>
